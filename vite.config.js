@@ -14,4 +14,5 @@ export default defineConfig({
         outDir: 'public/build',
         emptyOutDir: true,
     },
+    base: process.env.ASSET_URL ? process.env.ASSET_URL + '/build/' : '/build/',
 });

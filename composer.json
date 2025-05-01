@@ -33,6 +33,7 @@
         }
     },
     "scripts": {
+        "heroku-postbuild": "npm install && npm run build",
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
             "@php artisan package:discover --ansi"

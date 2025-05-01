@@ -5,7 +5,7 @@
         "customer_name": "Steve Smith",
         "customer_email": "steve.smith@example.com",
         "transaction_status": "completed",
-        "rooms": 104,
+        "rooms": 102,
         "room_type": "delux3",
         "check_in": "2025-05-01",
         "check_out": "2025-05-03",

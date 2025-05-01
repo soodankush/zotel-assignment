@@ -240,5 +240,4 @@ onMounted(() => {
     generateCalendar(currentMonth, currentYear);
 })
 
-
 </script>
